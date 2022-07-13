@@ -1,9 +1,9 @@
 Isilah data pribadi : 
 
-Nama : Rizki Nugroho
-Alamat Email: rizkynhg@gmail.com
-Waktu Mulai : 18:30
-Waktu Selesai : 19:40
+Nama          : Rizki Nugroho
+Alamat Email  : rizkynhg@gmail.com
+Waktu Mulai   : 12/07/2022 18:30
+Waktu Selesai : 12/07/2022 19:40
 
 CARA PENGERJAAN!!!
 
